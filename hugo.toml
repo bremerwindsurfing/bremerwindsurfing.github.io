@@ -1,0 +1,113 @@
+# =============================================================================
+# HUGO KONFIGURATION – Bremer Windsurfing Club e.V.
+# =============================================================================
+# Diese Datei steuert die gesamte Website. Zeilen mit "#" sind Kommentare
+# und werden ignoriert. Änderungen hier erfordern einen neuen Build/Push.
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# WICHTIG: Hier die URL eurer GitHub-Pages-Seite eintragen.
+# Format: https://<github-benutzername>.github.io/<repository-name>/
+# Beispiel: https://bremerwindsurfing.github.io/website/
+# Wenn ihr eine eigene Domain habt (z.B. www.bremerwindsurfing.de),
+# tragt diese hier ein: https://www.bremerwindsurfing.de/
+# ---------------------------------------------------------------------------
+baseURL = 'https://bremerwindsurfing.github.io/website/'
+
+# Damit Links auch ohne die baseURL funktionieren (gut für lokales Testen)
+relativeURLs = true
+uglyURLs = false
+
+# Sprache der Website
+languageCode = 'de'
+defaultContentLanguage = 'de'
+
+# ---------------------------------------------------------------------------
+# VEREINSNAME – Wird im Browser-Tab und in der Kopfzeile angezeigt.
+# Ändert den Text zwischen den Anführungszeichen.
+# ---------------------------------------------------------------------------
+title = 'Bremer Windsurfing Club e.V.'
+
+# ---------------------------------------------------------------------------
+# THEME – "Ananke" ist ein schlichtes, gut gepflegtes Theme.
+# Nicht ändern, es sei denn, ihr wisst was ihr tut.
+# ---------------------------------------------------------------------------
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
+
+# ---------------------------------------------------------------------------
+# MENÜ – Die Navigation oben auf der Website.
+# "name" = Was im Menü angezeigt wird
+# "pageRef" = Wohin der Link führt (muss zu einer Seite in /content/ passen)
+# "weight" = Reihenfolge (kleinere Zahl = weiter links)
+# ---------------------------------------------------------------------------
+[menus]
+  [[menus.main]]
+    name = 'Start'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Verein'
+    pageRef = '/verein'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Sport'
+    pageRef = '/sport'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Termine'
+    pageRef = '/termine'
+    weight = 40
+
+  [[menus.main]]
+    name = 'Mitmachen'
+    pageRef = '/mitmachen'
+    weight = 50
+
+  [[menus.main]]
+    name = 'Kontakt'
+    pageRef = '/kontakt'
+    weight = 60
+
+# ---------------------------------------------------------------------------
+# PARAMETER – Zusätzliche Einstellungen für das Theme.
+# ---------------------------------------------------------------------------
+[params]
+  # Kurze Beschreibung (wird in Suchmaschinen angezeigt)
+  description = 'Bremer Windsurfing Club e.V. – Windsurfen am Stadtwaldsee seit 1973'
+
+  # ---------------------------------------------------------------------------
+  # HINTERGRUNDBILD – Das große Bild auf der Startseite.
+  # Legt ein Bild in den Ordner /static/images/ und tragt den Dateinamen ein.
+  # ---------------------------------------------------------------------------
+  featured_image = '/images/topbildbwc.jpg'
+
+  # ---------------------------------------------------------------------------
+  # VEREINSLOGO – Wird oben links in der Navigation angezeigt.
+  # Legt euer Logo in /static/images/ und tragt den Pfad hier ein.
+  # ---------------------------------------------------------------------------
+  site_logo = '/images/bwcLogo23.png'
+
+  # Eigenes CSS laden (für das moderne Design)
+  custom_css = ['/css/custom.css']
+
+  # Facebook-Link für Social-Icons
+  facebook = 'https://www.facebook.com/windsurfenbremen'
+
+# ---------------------------------------------------------------------------
+# AUSGABE-EINSTELLUNGEN – Nicht ändern!
+# ---------------------------------------------------------------------------
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ['html']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
