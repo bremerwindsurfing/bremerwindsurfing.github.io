@@ -12,10 +12,10 @@
 # Wenn ihr eine eigene Domain habt (z.B. www.bremerwindsurfing.de),
 # tragt diese hier ein: https://www.bremerwindsurfing.de/
 # ---------------------------------------------------------------------------
-baseURL = 'https://bremerwindsurfing.github.io/website/'
+baseURL = '/'
 
-# Damit Links auch ohne die baseURL funktionieren (gut für lokales Testen)
-relativeURLs = true
+# Links werden absolut generiert (verhindert das Anhäufen von Pfaden)
+relativeURLs = false
 uglyURLs = false
 
 # Sprache der Website
