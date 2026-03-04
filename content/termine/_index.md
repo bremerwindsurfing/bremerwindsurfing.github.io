@@ -5,51 +5,56 @@ featured_image: "images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
-<a href="#termine-2025">Termine 2025</a>
+<a href="#termine-2026">Termine 2026</a>
 <a href="#kalender">easyVerein Kalender</a>
 <a href="#fahrten">Vereinsfahrten</a>
 </div>
 
-## Termine 2025 {#termine-2025}
+## Termine 2026 {#termine-2026}
 
 <div class="termin-list">
 <div class="termin-item">
-<div class="termin-date">26.04.2025<br>11:00</div>
+<div class="termin-date">07.02.2026<br>11:00</div>
 <div class="termin-text">1. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">01.05.2025<br>11:00</div>
-<div class="termin-text"><strong>Ansurfen + Grillen</strong></div>
-</div>
-
-<div class="termin-item">
-<div class="termin-date">10.05.2025<br>11:00</div>
+<div class="termin-date">25.04.2026<br>11:00</div>
 <div class="termin-text">2. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">28.06.2025<br>11:00</div>
+<div class="termin-date">01.05.2026<br>11:00</div>
+<div class="termin-text"><strong>Ansurfen + Grillen</strong></div>
+</div>
+
+<div class="termin-item">
+<div class="termin-date">09.05.2026<br>11:00</div>
 <div class="termin-text">3. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">26.07.2025<br>11:00</div>
+<div class="termin-date">06.06.2026<br>11:00</div>
 <div class="termin-text">4. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">23.08.2025<br>11:00</div>
+<div class="termin-date">27.06.2026<br>11:00</div>
 <div class="termin-text">5. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">13.09.2025<br>11:00</div>
+<div class="termin-date">15.08.2026<br>11:00</div>
 <div class="termin-text">6. Arbeitsdienst</div>
 </div>
 
 <div class="termin-item">
-<div class="termin-date">11.10.2025<br>11:00</div>
+<div class="termin-date">12.09.2026<br>11:00</div>
+<div class="termin-text">7. Arbeitsdienst</div>
+</div>
+
+<div class="termin-item">
+<div class="termin-date">03.10.2026<br>11:00</div>
 <div class="termin-text"><strong>Saisonende, Restdienste und Abgrillen</strong></div>
 </div>
 </div>
