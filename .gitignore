@@ -15,3 +15,11 @@ desktop.ini
 *.swo
 *~
 .idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Old website archive
+/old/

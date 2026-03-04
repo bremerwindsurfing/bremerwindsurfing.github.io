@@ -1,7 +1,6 @@
 ---
 title: "Kontakt & Impressum"
 description: "Kontaktinformationen, Impressum und Datenschutz des Bremer Windsurfing Club e.V."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -26,7 +25,7 @@ Die Mails werden zeitnah vom Vorstand beantwortet.
 - **Auto:** Öffentlicher Parkplatz abgehend vom Hochschulring
 - **Adresse:** Hochschulring, Parkplatz Nord, D-28359 Bremen
 
-<a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z/data=!4m2!3m1!1s0x0:0xa1c80d29dadebbbd" class="btn-outline btn" target="_blank">Auf Google Maps anzeigen</a>
+<a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z/data=!4m2!3m1!1s0x0:0xa1c80d29dadebbbd" class="btn-outline btn" target="_blank" rel="noopener">Auf Google Maps anzeigen</a>
 
 ---
 

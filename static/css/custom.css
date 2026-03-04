@@ -8,7 +8,6 @@
     --bwc-blue-dark: #005f8a;
     --bwc-blue-light: #90e0ef;
     --bwc-blue-pale: #caf0f8;
-    --bwc-sand: #f8f4ed;
     --bwc-dark: #16213e;
     --bwc-white: #ffffff;
     --bwc-gray: #6b7280;
@@ -473,20 +472,6 @@ footer a:hover {
     margin-bottom: 0;
 }
 
-/* --- Anfahrt / Google Maps Embed --- */
-.map-container {
-    border-radius: var(--bwc-radius);
-    overflow: hidden;
-    box-shadow: var(--bwc-shadow);
-    margin: 2rem 0;
-}
-
-.map-container iframe {
-    width: 100%;
-    height: 350px;
-    border: none;
-}
-
 /* --- Bildergalerie --- */
 .gallery {
     display: flex;
@@ -509,7 +494,7 @@ footer a:hover {
     box-shadow: var(--bwc-shadow-lg);
 }
 
-/* --- Animate on scroll hint --- */
+/* --- Fade-in animation on page load --- */
 .card,
 .vorstand-card,
 .feature {
@@ -596,4 +581,56 @@ article li {
 
 article li strong {
     color: var(--bwc-blue-dark);
+}
+
+/* --- Quick-Navigation (Seiteninterne Links) --- */
+.quick-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: var(--bwc-gray-light);
+    border-radius: var(--bwc-radius);
+}
+
+.quick-nav a {
+    padding: 0.4rem 1rem;
+    background: var(--bwc-white);
+    border-radius: 50px;
+    color: var(--bwc-blue-dark);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: var(--bwc-transition);
+    border: 1px solid #e5e7eb;
+}
+
+.quick-nav a:hover {
+    background: var(--bwc-blue);
+    color: white;
+    border-color: var(--bwc-blue);
+}
+
+/* --- Rechtstexte (Impressum, Datenschutz) --- */
+.legal {
+    font-size: 0.92rem;
+    color: #555;
+    line-height: 1.7;
+}
+
+.legal h3 {
+    font-size: 1.05rem;
+    margin-top: 1.8em;
+}
+
+/* --- Accessibility: Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
 }

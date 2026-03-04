@@ -1,7 +1,6 @@
 ---
 title: "Bremer Windsurfing Club e.V."
 description: "Windsurfen am Bremer Stadtwaldsee seit 1973 – über 350 Mitglieder, Training, Material und Gemeinschaft."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 Der Bremer Windsurfing Club wurde am 09.04.1973 gegründet und hat heute über 350 aktive und passive Mitglieder. Eines der Gründungsmitglieder war der Surf-Twin Jürgen Charchulla. Das Vereinsgelände liegt am Bremer Stadtwaldsee (Unisee), welcher ein kleiner Baggersee mit einem Umfang von etwa 1900m und einer Tiefe von etwa 16m ist.
@@ -75,10 +74,10 @@ Unser Vereinsgelände liegt am Westufer des Bremer Stadtwaldsees (Unisee), wo si
 ## Links
 
 <div class="links-section">
-<a href="https://www.windfinder.com/forecast/bremen_stadtwaldsee" target="_blank">🌬️ Windfinder</a>
-<a href="https://www.facebook.com/windsurfenbremen" target="_blank">📘 Facebook</a>
-<a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z" target="_blank">📍 Google Maps</a>
-<a href="http://www.dailydose.de/" target="_blank">🏄 daily dose</a>
-<a href="http://www.surf-forum.com/" target="_blank">💬 surf forum</a>
-<a href="http://www.surfshop-charchulla.de/" target="_blank">🛒 Surfshop Charchulla</a>
+<a href="https://www.windfinder.com/forecast/bremen_stadtwaldsee" target="_blank" rel="noopener">🌬️ Windfinder</a>
+<a href="https://www.facebook.com/windsurfenbremen" target="_blank" rel="noopener">📘 Facebook</a>
+<a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z" target="_blank" rel="noopener">📍 Google Maps</a>
+<a href="https://www.dailydose.de/" target="_blank" rel="noopener">🏄 daily dose</a>
+<a href="https://www.surf-forum.com/" target="_blank" rel="noopener">💬 surf forum</a>
+<a href="https://www.surfshop-charchulla.de/" target="_blank" rel="noopener">🛒 Surfshop Charchulla</a>
 </div>

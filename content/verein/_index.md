@@ -1,7 +1,6 @@
 ---
 title: "Verein"
 description: "Alles rund um den Bremer Windsurfing Club – Vorstand, Satzung und Organisation."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -52,6 +51,6 @@ featured_image: "/images/topbildbwc.jpg"
 
 ## Satzung & Ordnung {#satzung}
 
-<a href="/pdf/BWC-Satzung-2020.02.01.pdf" class="pdf-link" target="_blank">Vereinssatzung (Stand 2020)</a>
+<a href="/pdf/BWC-Satzung-2020.02.01.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinssatzung (Stand 2020)</a>
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank">Vereinsordnung</a>
+<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>

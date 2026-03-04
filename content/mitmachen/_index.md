@@ -1,7 +1,6 @@
 ---
 title: "Mitmachen"
 description: "Mitglied werden, Surfschein machen oder kündigen – alle Infos zum Mitmachen beim BWC."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -16,9 +15,9 @@ Du hast Lust auf Windsurfen oder Stand-up-Paddeln? Dann werde Mitglied im BWC!
 
 Die Beiträge und das Beitrittsformular findest du hier:
 
-<a href="https://easyverein.com/public/BWCeV/applicationform/" class="btn" target="_blank">Zum Beitrittsformular</a>
+<a href="https://easyverein.com/public/BWCeV/applicationform/" class="btn" target="_blank" rel="noopener">Zum Beitrittsformular</a>
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank">Vereinsordnung</a>
+<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>
 
 ### Unser Verein im Video
 
@@ -32,7 +31,7 @@ Die Beiträge und das Beitrittsformular findest du hier:
 
 Wenn ihr die Grundlagen des Windsurfens beherrscht oder einen Surfschein habt, könnt ihr bei uns mitmachen.
 
-Jeden Freitag ab 17:00 Uhr von Mai bis September gibt es Übungen mit Torsten und Ruben am Unisee.
+Jeden Freitag ab 17:00 Uhr von Mai bis Oktober gibt es Übungen mit Torsten und Ruben am Unisee.
 
 ### Für Anfänger ohne Erfahrung
 
@@ -45,7 +44,7 @@ Für Anfängerinnen und Anfänger ohne Erfahrung im Windsurfen oder zur Erlangun
 
 Surfschule mit langjähriger Erfahrung direkt in Bremen.
 
-<a href="http://www.surfshop-charchulla.de/Charchulla_Bremen/Surfschule.html" class="card-link" target="_blank">Zur Surfschule</a>
+<a href="https://www.surfshop-charchulla.de/Charchulla_Bremen/Surfschule.html" class="card-link" target="_blank" rel="noopener">Zur Surfschule</a>
 
 </div>
 <div class="card">
@@ -54,7 +53,7 @@ Surfschule mit langjähriger Erfahrung direkt in Bremen.
 
 Windsurfkurse über den Hochschulsport (nur im Sommer).
 
-<a href="https://www.buchsys.de/bremen/angebote/aktueller_zeitraum/index.html#bs_aw" class="card-link" target="_blank">Zum Kursangebot</a>
+<a href="https://www.buchsys.de/bremen/angebote/aktueller_zeitraum/index.html#bs_aw" class="card-link" target="_blank" rel="noopener">Zum Kursangebot</a>
 
 </div>
 </div>

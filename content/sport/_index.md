@@ -1,7 +1,6 @@
 ---
 title: "Sport"
 description: "Training, Material und Regeln beim Bremer Windsurfing Club."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -51,10 +50,10 @@ Das Material steht den Mitgliedern täglich zur Verfügung. Vereinsgelände und 
 
 Bitte macht euch mit den folgenden Regeln und Dokumenten vertraut:
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank">Vereinsordnung</a>
+<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>
 
-<a href="/pdf/regeln_allg.pdf" class="pdf-link" target="_blank">Allgemeine Surfregeln (Vorfahrt, etc.)</a>
+<a href="/pdf/regeln_allg.pdf" class="pdf-link" target="_blank" rel="noopener">Allgemeine Surfregeln (Vorfahrt, etc.)</a>
 
-<a href="/pdf/regeln_not.pdf" class="pdf-link" target="_blank">Verhalten im Notfall</a>
+<a href="/pdf/regeln_not.pdf" class="pdf-link" target="_blank" rel="noopener">Verhalten im Notfall</a>
 
-<a href="/pdf/regeln_mat.pdf" class="pdf-link" target="_blank">Wie kommt das Material ans Wasser?</a>
+<a href="/pdf/regeln_mat.pdf" class="pdf-link" target="_blank" rel="noopener">Wie kommt das Material ans Wasser?</a>

@@ -1,7 +1,6 @@
 ---
 title: "Termine & Fahrten"
 description: "Aktuelle Termine und Vereinsfahrten des Bremer Windsurfing Club."
-featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -58,7 +57,7 @@ featured_image: "/images/topbildbwc.jpg"
 
 Alle Termine findet ihr auch im easyVerein-Kalender (Login erforderlich):
 
-<a href="https://easyverein.com/public/BWCeV/calendar" class="btn" target="_blank">easyVerein Kalender öffnen</a>
+<a href="https://easyverein.com/public/BWCeV/calendar" class="btn" target="_blank" rel="noopener">easyVerein Kalender öffnen</a>
 
 ## Vereinsfahrten {#fahrten}
 
