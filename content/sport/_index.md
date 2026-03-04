@@ -41,6 +41,8 @@ Unseren Mitgliedern steht umfangreiches Vereinsmaterial zur Verfügung:
 |--------------------|-----------------------------------------------|
 | Windsurfbretter    | Über 20 Boards                                |
 | Stand-up-Paddles   | Mehrere SUPs                                  |
+| Wingfoil-Sets      | 6+ Sets                                       |
+| Pumpfoils          | 2 Pumpfoils                                   |
 | Riggs              | 30 aufgebaute Riggs (2 bis 9 qm)             |
 | Neoprenanzüge      | In verschiedenen Größen                       |
 | Schuhe & Trapeze   | Für große und kleine Mitglieder               |

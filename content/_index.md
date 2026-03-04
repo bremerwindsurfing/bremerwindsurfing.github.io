@@ -26,7 +26,7 @@ Jeden Freitag von 17–19 Uhr (Mai bis Oktober) bieten wir ein freies Training f
 
 ### Material
 
-Über 20 Windsurfbretter, mehrere SUPs und 30 aufgebaute Riggs von 2 bis 9 qm stehen bereit.
+Über 20 Windsurfbretter, mehrere SUPs, 6+ Wingfoil-Sets, 2 Pumpfoils und 30 aufgebaute Riggs von 2 bis 9 qm stehen bereit.
 
 </div>
 <div class="feature">
@@ -51,7 +51,7 @@ Mit unseren Partnern könnt ihr den offiziellen VDWS-Surfschein erwerben.
 
 Im Club sind alle Könnensstufen und Altersklassen vertreten. Vereinsgelände und Material stehen den Mitgliedern täglich zum Surfen und Stand-up-Paddeln zur Verfügung. Zwischen Mai und Oktober wird für Vereinsmitglieder zudem ein freies Training jeden Freitag angeboten.
 
-Zum Windsurfen sind über 20 Windsurfbretter, mehrere SUPs, sowie 30 aufgebaute Riggs von 2 (Kinder) bis 9 qm verfügbar. Somit besteht die Möglichkeit, schnell auf dem Wasser zu sein, um das Windsurfen zu erlernen bzw. seine Kenntnisse zu erweitern. Surfanzüge, Schuhe und Trapeze sind in ausreichender Anzahl für große und kleine Mitglieder zur Ausleihe vorhanden.
+Zum Windsurfen sind über 20 Windsurfbretter, mehrere SUPs, 6+ Wingfoil-Sets, 2 Pumpfoils sowie 30 aufgebaute Riggs von 2 (Kinder) bis 9 qm verfügbar. Somit besteht die Möglichkeit, schnell auf dem Wasser zu sein, um das Windsurfen zu erlernen bzw. seine Kenntnisse zu erweitern. Surfanzüge, Schuhe und Trapeze sind in ausreichender Anzahl für große und kleine Mitglieder zur Ausleihe vorhanden.
 
 Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienste regelmäßig organisiert und über unsere Internet- sowie Facebook-Seite bekannt gegeben. Mindestens dreimal im Jahr haben wir zu Fahrten an windsichere Orte wie z.B. den Dümmer oder nach Sahlenburg eingeladen.
 
