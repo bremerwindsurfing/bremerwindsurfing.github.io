@@ -15,9 +15,9 @@ Alle Texte der Website befinden sich im Ordner **`content/`**. Die Dateien sind 
 | **Startseite**            | `content/_index.md`                |
 | **Verein / Vorstand**     | `content/verein/_index.md`         |
 | **Sport / Training**      | `content/sport/_index.md`          |
-| **Termine & Fahrten**     | `content/termine/index.md`         |
+| **Termine & Fahrten**     | `content/termine/_index.md`         |
 | **Mitmachen / Beitritt**  | `content/mitmachen/_index.md`      |
-| **Kontakt / Impressum**   | `content/kontakt/index.md`         |
+| **Kontakt / Impressum**   | `content/kontakt/_index.md`         |
 
 #### Markdown-Kurzanleitung
 
@@ -39,7 +39,7 @@ Alle Texte der Website befinden sich im Ordner **`content/`**. Die Dateien sind 
 
 ### Bilder hochladen
 
-1. Legt euer Bild in den Ordner **`staticimages/`**
+1. Legt euer Bild in den Ordner **`static/images/`**
 2. Benennt es sinnvoll (z.B. `training-2026.jpg` – keine Leerzeichen, keine Umlaute!)
 3. Verwendet es in einer Markdown-Datei so:
    ```markdown
@@ -56,14 +56,14 @@ Alle Texte der Website befinden sich im Ordner **`content/`**. Die Dateien sind 
 
 ### Das Hintergrundbild ändern
 
-1. Legt ein neues Bild in **`staticimages/`** (z.B. `header-neu.jpg`)
+1. Legt ein neues Bild in **`static/images/`** (z.B. `header-neu.jpg`)
 2. Öffnet die Datei **`hugo.toml`**
 3. Sucht die Zeile `featured_image = 'images/topbildbwc.jpg'`
 4. Ändert den Dateinamen
 
 ### Termine aktualisieren
 
-1. Öffnet die Datei **`content/termine/index.md`**
+1. Öffnet die Datei **`content/termine/_index.md`**
 2. Passt die Termine in den `<div class="termin-item">` Blöcken an
 3. Kopiert einen bestehenden Block und ändert Datum und Text
 

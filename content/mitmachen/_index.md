@@ -18,7 +18,7 @@ Die Beiträge und das Beitrittsformular findest du hier:
 
 <a href="https://easyverein.com/public/BWCeV/applicationform/" class="btn" target="_blank" rel="noopener">Zum Beitrittsformular</a>
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>
+{{< link href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Vereinsordnung{{< /link >}}
 
 ### Unser Verein im Video
 

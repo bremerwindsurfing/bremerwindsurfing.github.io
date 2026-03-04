@@ -7,9 +7,9 @@ featured_image: "images/topbildbwc.jpg"
 Der Bremer Windsurfing Club wurde am 09.04.1973 gegründet und hat heute über 350 aktive und passive Mitglieder. Eines der Gründungsmitglieder war der Surf-Twin Jürgen Charchulla. Das Vereinsgelände liegt am Bremer Stadtwaldsee (Unisee), welcher ein kleiner Baggersee mit einem Umfang von etwa 1900m und einer Tiefe von etwa 16m ist.
 
 <div class="cta-row">
-<a href="/mitmachen" class="btn">Mitglied werden</a>
-<a href="/sport" class="btn-outline btn">Training & Material</a>
-<a href="/termine" class="btn-outline btn">Termine ansehen</a>
+{{< link href="/mitmachen" class="btn" >}}Mitglied werden{{< /link >}}
+{{< link href="/sport" class="btn-outline btn" >}}Training & Material{{< /link >}}
+{{< link href="/termine" class="btn-outline btn" >}}Termine ansehen{{< /link >}}
 </div>
 
 <div class="features">

@@ -51,10 +51,10 @@ Das Material steht den Mitgliedern täglich zur Verfügung. Vereinsgelände und 
 
 Bitte macht euch mit den folgenden Regeln und Dokumenten vertraut:
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>
+{{< link href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Vereinsordnung{{< /link >}}
 
-<a href="/pdf/regeln_allg.pdf" class="pdf-link" target="_blank" rel="noopener">Allgemeine Surfregeln (Vorfahrt, etc.)</a>
+{{< link href="/pdf/regeln_allg.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Allgemeine Surfregeln (Vorfahrt, etc.){{< /link >}}
 
-<a href="/pdf/regeln_not.pdf" class="pdf-link" target="_blank" rel="noopener">Verhalten im Notfall</a>
+{{< link href="/pdf/regeln_not.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Verhalten im Notfall{{< /link >}}
 
-<a href="/pdf/regeln_mat.pdf" class="pdf-link" target="_blank" rel="noopener">Wie kommt das Material ans Wasser?</a>
+{{< link href="/pdf/regeln_mat.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Wie kommt das Material ans Wasser?{{< /link >}}

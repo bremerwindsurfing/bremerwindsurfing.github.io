@@ -1,0 +1,6 @@
+{{- $href := .Get "href" | strings.TrimLeft "/" | relURL -}}
+<a href="{{ $href }}"
+{{- with .Get "class" }} class="{{ . }}"{{ end -}}
+{{- with .Get "target" }} target="{{ . }}"{{ end -}}
+{{- with .Get "rel" }} rel="{{ . }}"{{ end -}}
+>{{ .Inner }}</a>

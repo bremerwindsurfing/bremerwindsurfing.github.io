@@ -14,7 +14,7 @@ featured_image: "images/topbildbwc.jpg"
 
 <div class="vorstand-grid">
 <div class="vorstand-card">
-<img src="images/vors02.jpg" alt="Torsten Standhartinger">
+{{< img src="/images/vors02.jpg" alt="Torsten Standhartinger" >}}
 <div class="rolle">1. Vorsitzender</div>
 <div class="name">Torsten Standhartinger</div>
 <a href="mailto:torsten.standhartinger@bremerwindsurfing.de">E-Mail schreiben</a>
@@ -52,6 +52,6 @@ featured_image: "images/topbildbwc.jpg"
 
 ## Satzung & Ordnung {#satzung}
 
-<a href="/pdf/BWC-Satzung-2020.02.01.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinssatzung (Stand 2020)</a>
+{{< link href="/pdf/BWC-Satzung-2020.02.01.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Vereinssatzung (Stand 2020){{< /link >}}
 
-<a href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener">Vereinsordnung</a>
+{{< link href="/pdf/ordnung.pdf" class="pdf-link" target="_blank" rel="noopener" >}}Vereinsordnung{{< /link >}}
