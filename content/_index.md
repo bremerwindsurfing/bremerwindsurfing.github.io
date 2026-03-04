@@ -80,5 +80,5 @@ Unser Vereinsgelände liegt am Westufer des Bremer Stadtwaldsees (Unisee), wo si
 <a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z" target="_blank" rel="noopener">📍 Google Maps</a>
 <a href="https://www.dailydose.de/" target="_blank" rel="noopener">🏄 daily dose</a>
 <a href="https://www.surf-forum.com/" target="_blank" rel="noopener">💬 surf forum</a>
-<a href="https://www.surfshop-charchulla.de/" target="_blank" rel="noopener">🛒 Surfshop Charchulla</a>
+<a href="http://www.surfshop-charchulla.de/" target="_blank" rel="noopener">🛒 Surfshop Charchulla</a>
 </div>

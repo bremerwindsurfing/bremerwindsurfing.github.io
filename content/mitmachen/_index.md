@@ -45,7 +45,7 @@ Für Anfängerinnen und Anfänger ohne Erfahrung im Windsurfen oder zur Erlangun
 
 Surfschule mit langjähriger Erfahrung direkt in Bremen.
 
-<a href="https://www.surfshop-charchulla.de/Charchulla_Bremen/Surfschule.html" class="card-link" target="_blank" rel="noopener">Zur Surfschule</a>
+<a href="http://www.surfshop-charchulla.de/" class="card-link" target="_blank" rel="noopener">Zur Surfschule</a>
 
 </div>
 <div class="card">
