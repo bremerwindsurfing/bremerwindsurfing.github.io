@@ -28,8 +28,8 @@
         <div class="flex flex-wrap justify-between items-center pt3">
             <div class="f7 white-40 ph3">&copy; {{ now.Format "2006" }} {{ .Site.Title }}</div>
             <div class="ph3">
-                <a class="f7 fw4 white-40 dib ph2 no-underline" href="/kontakt/#impressum">Impressum</a>
-                <a class="f7 fw4 white-40 dib ph2 no-underline" href="/kontakt/#datenschutz">Datenschutz</a>
+                <a class="f7 fw4 white-40 dib ph2 no-underline" href="{{ "kontakt/#impressum" | relURL }}">Impressum</a>
+                <a class="f7 fw4 white-40 dib ph2 no-underline" href="{{ "kontakt/#datenschutz" | relURL }}">Datenschutz</a>
             </div>
         </div>
     </div>

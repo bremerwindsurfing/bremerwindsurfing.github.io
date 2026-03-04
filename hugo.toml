@@ -1,7 +1,7 @@
 # Hugo-Konfiguration – Bremer Windsurfing Club e.V.
 
-# Bei eigener Domain: baseURL = 'https://www.bremerwindsurfing.de/'
-baseURL = '/'
+# Bei eigener Domain auf 'https://bremerwindsurfing.de/' ändern
+baseURL = 'https://acktium.github.io/bwc/'
 relativeURLs = false
 uglyURLs = false
 languageCode = 'de'
