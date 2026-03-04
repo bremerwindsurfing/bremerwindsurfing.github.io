@@ -1,7 +1,7 @@
 ---
 title: "Kontakt & Impressum"
 description: "Kontaktinformationen, Impressum und Datenschutz des Bremer Windsurfing Club e.V."
-featured_image: "/images/topbildbwc.jpg"
+featured_image: "images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">

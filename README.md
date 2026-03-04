@@ -34,16 +34,16 @@ Alle Texte der Website befinden sich im Ordner **`content/`**. Die Dateien sind 
 
 [Link-Text](https://www.beispiel.de)
 
-![Bildbeschreibung](/images/mein-bild.jpg)
+![Bildbeschreibung](images/mein-bild.jpg)
 ```
 
 ### Bilder hochladen
 
-1. Legt euer Bild in den Ordner **`static/images/`**
+1. Legt euer Bild in den Ordner **`staticimages/`**
 2. Benennt es sinnvoll (z.B. `training-2026.jpg` – keine Leerzeichen, keine Umlaute!)
 3. Verwendet es in einer Markdown-Datei so:
    ```markdown
-   ![Beschreibung des Bildes](/images/training-2026.jpg)
+   ![Beschreibung des Bildes](images/training-2026.jpg)
    ```
 
 ### PDFs hochladen
@@ -56,9 +56,9 @@ Alle Texte der Website befinden sich im Ordner **`content/`**. Die Dateien sind 
 
 ### Das Hintergrundbild ändern
 
-1. Legt ein neues Bild in **`static/images/`** (z.B. `header-neu.jpg`)
+1. Legt ein neues Bild in **`staticimages/`** (z.B. `header-neu.jpg`)
 2. Öffnet die Datei **`hugo.toml`**
-3. Sucht die Zeile `featured_image = '/images/topbildbwc.jpg'`
+3. Sucht die Zeile `featured_image = 'images/topbildbwc.jpg'`
 4. Ändert den Dateinamen
 
 ### Termine aktualisieren

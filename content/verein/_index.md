@@ -1,7 +1,7 @@
 ---
 title: "Verein"
 description: "Alles rund um den Bremer Windsurfing Club – Vorstand, Satzung und Organisation."
-featured_image: "/images/topbildbwc.jpg"
+featured_image: "images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
@@ -14,7 +14,7 @@ featured_image: "/images/topbildbwc.jpg"
 
 <div class="vorstand-grid">
 <div class="vorstand-card">
-<img src="/images/vors02.jpg" alt="Torsten Standhartinger">
+<img src="images/vors02.jpg" alt="Torsten Standhartinger">
 <div class="rolle">1. Vorsitzender</div>
 <div class="name">Torsten Standhartinger</div>
 <a href="mailto:torsten.standhartinger@bremerwindsurfing.de">E-Mail schreiben</a>
