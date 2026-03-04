@@ -1,6 +1,7 @@
 ---
 title: "Sport"
 description: "Training, Material und Regeln beim Bremer Windsurfing Club."
+featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">

@@ -1,6 +1,7 @@
 ---
 title: "Mitmachen"
 description: "Mitglied werden, Surfschein machen oder kündigen – alle Infos zum Mitmachen beim BWC."
+featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">

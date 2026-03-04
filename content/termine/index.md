@@ -1,6 +1,7 @@
 ---
 title: "Termine & Fahrten"
 description: "Aktuelle Termine und Vereinsfahrten des Bremer Windsurfing Club."
+featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
