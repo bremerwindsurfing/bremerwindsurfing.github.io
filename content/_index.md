@@ -66,7 +66,7 @@ Unser Vereinsgelände liegt am Westufer des Bremer Stadtwaldsees (Unisee), wo si
 <div class="gallery">
 
 ![Am Stadtwaldsee](images/bottom.jpg)
-![Windsurfen in Bremen](images/bottom2.jpg)
+![Windsurfen in Bremen](images/bretter_in_sonne_2.jpeg)
 
 </div>
 
