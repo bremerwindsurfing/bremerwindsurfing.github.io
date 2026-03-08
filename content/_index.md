@@ -59,8 +59,8 @@ Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienst
 
 <div class="artikel-teaser">
   <div class="artikel-teaser-cover">
-    <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" title="Artikel als PDF öffnen">
-      <img src="/images/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20-1.jpg" alt="FINDORFF Magazin Mai/Juni 2025 – Titelseite" loading="lazy">
+    <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener">
+      <img src="/images/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20-1.jpg" alt="FINDORFF Magazin Mai/Juni 2025">
     </a>
   </div>
   <div class="artikel-teaser-body">
@@ -70,6 +70,7 @@ Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienst
     <div class="artikel-teaser-actions">
       <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" class="btn">📖 Artikel lesen</a>
     </div>
+  </div>
 </div>
 
 ## Anfahrt
