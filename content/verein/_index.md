@@ -27,6 +27,7 @@ featured_image: "/images/topbildbwc.jpg"
 </div>
 
 <div class="vorstand-card">
+{{< img src="/images/Isaac.jpg" alt="Isaac Puch Rojo" >}}
 <div class="rolle">3. Kassenwart</div>
 <div class="name">Isaac Puch Rojo</div>
 <a href="mailto:kassenwart@bremerwindsurfing.de">E-Mail schreiben</a>
