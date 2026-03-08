@@ -41,7 +41,7 @@ title = 'Bremer Windsurfing Club e.V.'
 [params]
   description = 'Bremer Windsurfing Club e.V. – Windsurfen am Stadtwaldsee seit 1973'
   featured_image = '/images/topbildbwc.jpg'
-  site_logo = 'images/bwcLogo23.png'
+  site_logo = '/images/bwcLogo23.png'
   custom_css = ['css/custom.css']
   facebook = 'https://www.facebook.com/windsurfenbremen'
 
