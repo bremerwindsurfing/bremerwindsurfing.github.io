@@ -14,7 +14,7 @@ featured_image: "/images/topbildbwc.jpg"
 
 <div class="vorstand-grid">
 <div class="vorstand-card">
-{{< img src="/images/BWCLogo.jpg" alt="Anna Seidenkranz" >}}
+{{< img src="/images/people/anna.png" alt="Anna Seidenkranz" >}}
 <div class="rolle">1. Vorsitzende</div>
 <div class="name">Anna Seidenkranz</div>
 <a href="mailto:anna.seidenkranz@bremerwindsurfing.de">E-Mail schreiben</a>
