@@ -14,24 +14,28 @@ featured_image: "/images/topbildbwc.jpg"
 
 <div class="vorstand-grid">
 <div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Anna Seidenkranz" >}}
 <div class="rolle">1. Vorsitzende</div>
 <div class="name">Anna Seidenkranz</div>
 <a href="mailto:anna.seidenkranz@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 
 <div class="vorstand-card">
+{{< img src="/images/people/lemar.jpg" alt="Lemar Schwarz" >}}
 <div class="rolle">2. Vorsitzender</div>
 <div class="name">Lemar Schwarz</div>
 <a href="mailto:lemar.schwarz@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 
 <div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Niklas Kipry" >}}
 <div class="rolle">Kassenwart</div>
 <div class="name">Niklas Kipry</div>
 <a href="mailto:kassenwart@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 
 <div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Susanne Draudt" >}}
 <div class="rolle">Schriftführerin</div>
 <div class="name">Susanne Draudt</div>
 <a href="mailto:schriftfuehrer@bremerwindsurfing.de">E-Mail schreiben</a>
@@ -40,17 +44,55 @@ featured_image: "/images/topbildbwc.jpg"
 
 ## Erweiterter Vorstand {#erweiterter-vorstand}
 
-| Funktion              | Name                                    |
-|-----------------------|-----------------------------------------|
-| 2. Kassenwart         | René Zadelberg                          |
-| 3. Kassenwart         | Isaac Pucho Rojo (unterstützend)        |
-| Arbeitsdienstleiter   | Dirk Haedicke                           |
-| Foil-Materialwart     | Martin Fabis                            |
-| Platzwart             | Martin Fabis                            |
-| 2. Platzwart          | Torsten Standhartinger                  |
-| Schlüsselwart         | Martin Scholter                         |
-| Windsurftraining      | Christoph Bohlen                        |
-| Webmaster             | Lemar Schwarz                           |
+<div class="vorstand-grid">
+<div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="René Zadelberg" >}}
+<div class="rolle">2. Kassenwart</div>
+<div class="name">René Zadelberg</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/people/Isaac.jpg" alt="Isaac Pucho Rojo" >}}
+<div class="rolle">3. Kassenwart (unterstützend)</div>
+<div class="name">Isaac Pucho Rojo</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Dirk Haedicke" >}}
+<div class="rolle">Arbeitsdienstleiter</div>
+<div class="name">Dirk Haedicke</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Martin Fabis" >}}
+<div class="rolle">Foil-Materialwart & Platzwart</div>
+<div class="name">Martin Fabis</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/people/vors02.jpg" alt="Torsten Standhartinger" >}}
+<div class="rolle">2. Platzwart</div>
+<div class="name">Torsten Standhartinger</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Martin Scholter" >}}
+<div class="rolle">Schlüsselwart</div>
+<div class="name">Martin Scholter</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/BWCLogo.jpg" alt="Christoph Bohlen" >}}
+<div class="rolle">Windsurftraining</div>
+<div class="name">Christoph Bohlen</div>
+</div>
+
+<div class="vorstand-card">
+{{< img src="/images/people/lemar.jpg" alt="Lemar Schwarz" >}}
+<div class="rolle">Webmaster</div>
+<div class="name">Lemar Schwarz</div>
+</div>
+</div>
 
 **Sammel-E-Mail:** [info@bremerwindsurfing.de](mailto:info@bremerwindsurfing.de)
 
