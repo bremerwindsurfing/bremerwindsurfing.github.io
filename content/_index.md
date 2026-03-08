@@ -55,6 +55,25 @@ Zum Windsurfen sind über 20 Windsurfbretter, mehrere SUPs, 6+ Wingfoil-Sets, 2 
 
 Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienste regelmäßig organisiert und über unsere Internet- sowie Facebook-Seite bekannt gegeben. Mindestens dreimal im Jahr haben wir zu Fahrten an windsichere Orte wie z.B. den Dümmer oder nach Sahlenburg eingeladen.
 
+## In der Presse
+
+<div class="artikel-teaser">
+  <div class="artikel-teaser-cover">
+    <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" title="Artikel als PDF öffnen">
+      <img src="/images/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20-1.jpg" alt="FINDORFF Magazin Mai/Juni 2025 – Titelseite" loading="lazy">
+    </a>
+  </div>
+  <div class="artikel-teaser-body">
+    <span class="artikel-teaser-badge">📰 Presse</span>
+    <h3>FINDORFF Magazin – Mai/Juni 2025</h3>
+    <p>Der Bremer Windsurfing Club wurde im FINDORFF Magazin vorgestellt. Lest hier den Artikel über unseren Club, den See und das Windsurfen mitten in Bremen.</p>
+    <div class="artikel-teaser-actions">
+      <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" class="btn">📖 Artikel lesen</a>
+      <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" download class="btn btn-outline">⬇ PDF herunterladen</a>
+    </div>
+  </div>
+</div>
+
 ## Anfahrt
 
 Unser Vereinsgelände liegt am Westufer des Bremer Stadtwaldsees (Unisee), wo sich auch eine Slipanlage/Einsatzstelle für Windsurfer, Paddelbootfahrer und Segler befindet.

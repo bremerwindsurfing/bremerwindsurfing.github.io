@@ -644,6 +644,108 @@ article li strong {
     border-color: var(--bwc-blue);
 }
 
+/* --- Magazin / Presse-Teaser --- */
+.artikel-teaser {
+    display: flex;
+    gap: 1.8rem;
+    align-items: flex-start;
+    background: var(--bwc-white);
+    border-radius: var(--bwc-radius);
+    box-shadow: var(--bwc-shadow-lg);
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border: 1px solid rgba(0, 119, 182, 0.1);
+    transition: var(--bwc-transition);
+}
+
+.artikel-teaser:hover {
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.13);
+    transform: translateY(-2px);
+}
+
+.artikel-teaser-cover {
+    flex-shrink: 0;
+    width: 160px;
+}
+
+.artikel-teaser-cover a {
+    display: block;
+    border-bottom: none !important;
+}
+
+.artikel-teaser-cover img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    display: block;
+    transition: var(--bwc-transition);
+}
+
+.artikel-teaser-cover img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+}
+
+.artikel-teaser-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.artikel-teaser-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--bwc-blue);
+    background: var(--bwc-blue-pale);
+    border-radius: 50px;
+    padding: 0.2rem 0.8rem;
+    margin-bottom: 0.6rem;
+}
+
+.artikel-teaser-body h3 {
+    margin-top: 0.2em;
+    margin-bottom: 0.4rem;
+    font-size: 1.25rem;
+    color: var(--bwc-dark);
+    border: none;
+    padding: 0;
+}
+
+.artikel-teaser-body p {
+    font-size: 0.93rem;
+    color: var(--bwc-gray);
+    margin-bottom: 1.1rem;
+    line-height: 1.6;
+}
+
+.artikel-teaser-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.artikel-teaser-actions .btn {
+    font-size: 0.88rem;
+    padding: 0.55rem 1.2rem;
+}
+
+@media (max-width: 540px) {
+    .artikel-teaser {
+        flex-direction: column;
+    }
+
+    .artikel-teaser-cover {
+        width: 100%;
+    }
+
+    .artikel-teaser-cover img {
+        max-height: 240px;
+        width: auto;
+        margin: 0 auto;
+    }
+}
 /* --- Rechtstexte (Impressum, Datenschutz) --- */
 .legal {
     font-size: 0.92rem;
