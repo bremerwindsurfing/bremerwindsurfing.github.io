@@ -61,7 +61,7 @@ featured_image: "/images/topbildbwc.jpg"
 
 ## easyVerein Kalender {#kalender}
 
-Alle Termine findet ihr auch im easyVerein-Kalender (Login erforderlich):
+Alle Termine findet ihr auch im easyVerein-Kalender:
 
 <a href="https://easyverein.com/public/BWCeV/calendar" class="btn" target="_blank" rel="noopener">easyVerein Kalender öffnen</a>
 
