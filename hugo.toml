@@ -1,7 +1,7 @@
 # Hugo-Konfiguration – Bremer Windsurfing Club e.V.
 
 # Bei eigener Domain auf 'https://bremerwindsurfing.de/' ändern
-baseURL = 'https://bremerwindsurfing.github.io'
+baseURL = 'https://bremerwindsurfing.de/'
 relativeURLs = false
 uglyURLs = false
 languageCode = 'de'
