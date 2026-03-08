@@ -69,7 +69,7 @@ Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienst
     <p>Der Bremer Windsurfing Club wurde im FINDORFF Magazin vorgestellt. Lest hier den Artikel über unseren Club, den See und das Windsurfen mitten in Bremen.</p>
     <div class="artikel-teaser-actions">
       <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" class="btn">📖 Artikel lesen</a>
-  </div>
+    </div>
 </div>
 
 ## Anfahrt
