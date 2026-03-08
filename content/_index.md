@@ -64,12 +64,10 @@ Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienst
     </a>
   </div>
   <div class="artikel-teaser-body">
-    <span class="artikel-teaser-badge">📰 Presse</span>
     <h3>FINDORFF Magazin – Mai/Juni 2025</h3>
     <p>Der Bremer Windsurfing Club wurde im FINDORFF Magazin vorgestellt. Lest hier den Artikel über unseren Club, den See und das Windsurfen mitten in Bremen.</p>
     <div class="artikel-teaser-actions">
       <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" target="_blank" rel="noopener" class="btn">📖 Artikel lesen</a>
-      <a href="/pdf/FINDORFF%20Magazin%20_%20Mai%20-%20Juni%202025%20.pdf" download class="btn btn-outline">⬇ PDF herunterladen</a>
     </div>
   </div>
 </div>
