@@ -14,39 +14,43 @@ featured_image: "/images/topbildbwc.jpg"
 
 <div class="vorstand-grid">
 <div class="vorstand-card">
-{{< img src="/images/vors02.jpg" alt="Torsten Standhartinger" >}}
-<div class="rolle">1. Vorsitzender</div>
-<div class="name">Torsten Standhartinger</div>
-<a href="mailto:torsten.standhartinger@bremerwindsurfing.de">E-Mail schreiben</a>
-</div>
-
-<div class="vorstand-card">
-<div class="rolle">2. Vorsitzende</div>
+<div class="rolle">1. Vorsitzende</div>
 <div class="name">Anna Seidenkranz</div>
-<a href="mailto:info@bremerwindsurfing.de">E-Mail schreiben</a>
+<a href="mailto:anna.seidenkranz@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 
 <div class="vorstand-card">
-<div class="rolle">3. Kassenwart</div>
-<div class="name">Isaac Puch Rojo</div>
+<div class="rolle">2. Vorsitzender</div>
+<div class="name">Lemar Schwarz</div>
+<a href="mailto:lemar.schwarz@bremerwindsurfing.de">E-Mail schreiben</a>
+</div>
+
+<div class="vorstand-card">
+<div class="rolle">Kassenwart</div>
+<div class="name">Niklas Kipry</div>
 <a href="mailto:kassenwart@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 
 <div class="vorstand-card">
-<div class="rolle">Schriftführer</div>
-<div class="name">Lemar Schwarz</div>
+<div class="rolle">Schriftführerin</div>
+<div class="name">Susanne Draudt</div>
 <a href="mailto:schriftfuehrer@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
 </div>
 
 ## Erweiterter Vorstand {#erweiterter-vorstand}
 
-| Funktion              | Name               |
-|-----------------------|--------------------|
-| Arbeitsdienstleiter   | Dirk Hedeke        |
-| Materialwart          | Ruben Kanter       |
-| Webmaster             | Kai-Uwe Eichmann   |
-| Platzwart             | Martin             |
+| Funktion              | Name                                    |
+|-----------------------|-----------------------------------------|
+| 2. Kassenwart         | René Zadelberg                          |
+| 3. Kassenwart         | Isaac Pucho Rojo (unterstützend)        |
+| Arbeitsdienstleiter   | Dirk Haedicke                           |
+| Foil-Materialwart     | Martin Fabis                            |
+| Platzwart             | Martin Fabis                            |
+| 2. Platzwart          | Torsten Standhartinger                  |
+| Schlüsselwart         | Martin Scholter                         |
+| Windsurftraining      | Christoph Bohlen                        |
+| Webmaster             | Lemar Schwarz                           |
 
 **Sammel-E-Mail:** [info@bremerwindsurfing.de](mailto:info@bremerwindsurfing.de)
 
