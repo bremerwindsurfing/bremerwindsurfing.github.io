@@ -27,7 +27,7 @@ featured_image: "images/topbildbwc.jpg"
 </div>
 
 <div class="vorstand-card">
-<div class="rolle">Kassenwart</div>
+<div class="rolle">3. Kassenwart</div>
 <div class="name">Isaac Puch Rojo</div>
 <a href="mailto:kassenwart@bremerwindsurfing.de">E-Mail schreiben</a>
 </div>
