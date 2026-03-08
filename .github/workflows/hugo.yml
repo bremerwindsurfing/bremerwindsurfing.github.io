@@ -1,12 +1,12 @@
 # Hugo Website auf GitHub Pages veröffentlichen
-# Baut und deployed automatisch bei Push auf "master".
+# Baut und deployed automatisch bei Push auf "main".
 
 name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 permissions:
