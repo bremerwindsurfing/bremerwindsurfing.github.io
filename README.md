@@ -107,8 +107,8 @@ git push
 
 ```bash
 # Repository klonen
-git clone https://github.com/bremerwindsurfing/website.git
-cd website
+git clone https://github.com/bremerwindsurfing/bremerwindsurfing.github.io.git
+cd bremerwindsurfing.github.io
 
 # Lokalen Server starten
 hugo server -D

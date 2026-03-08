@@ -1,7 +1,7 @@
 ---
 title: "Verein"
 description: "Alles rund um den Bremer Windsurfing Club – Vorstand, Satzung und Organisation."
-featured_image: "images/topbildbwc.jpg"
+featured_image: "/images/topbildbwc.jpg"
 ---
 
 <div class="quick-nav">
