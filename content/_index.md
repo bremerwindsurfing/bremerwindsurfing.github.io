@@ -1,6 +1,6 @@
 ---
 title: "Bremer Windsurfing Club e.V."
-description: "Windsurfen am Bremer Stadtwaldsee seit 1973 – über 350 Mitglieder, Training, Material und Gemeinschaft."
+description: "Windsurfen am Bremer Stadtwaldsee seit 1973 – ca. 500 Mitglieder, Training, Material und Gemeinschaft."
 featured_image: "/images/topbildbwc.jpg"
 ---
 
