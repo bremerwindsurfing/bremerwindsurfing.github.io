@@ -42,6 +42,8 @@ featured_image: "/images/topbildbwc.jpg"
 </div>
 </div>
 
+**Sammel-E-Mail:** [vorstand@bremerwindsurfing.de](mailto:vorstand@bremerwindsurfing.de)
+
 ## Erweiterter Vorstand {#erweiterter-vorstand}
 
 <div class="vorstand-grid">
@@ -65,13 +67,13 @@ featured_image: "/images/topbildbwc.jpg"
 
 <div class="vorstand-card">
 {{< img src="/images/BWCLogo.jpg" alt="Martin Fabis" >}}
-<div class="rolle">Foil-Materialwart & Platzwart</div>
+<div class="rolle">Wingfoilmanager</div>
 <div class="name">Martin Fabis</div>
 </div>
 
 <div class="vorstand-card">
 {{< img src="/images/people/vors02.jpg" alt="Torsten Standhartinger" >}}
-<div class="rolle">2. Platzwart</div>
+<div class="rolle">Platzwart</div>
 <div class="name">Torsten Standhartinger</div>
 </div>
 
