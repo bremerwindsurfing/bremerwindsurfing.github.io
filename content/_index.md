@@ -1,6 +1,6 @@
 ---
 title: "Bremer Windsurfing Club e.V."
-description: "Windsurfen am Bremer Stadtwaldsee seit 1973 – ca. 500 Mitglieder, Training, Material und Gemeinschaft."
+description: "Windsurfen am Bremer Stadtwaldsee seit 1973 – um die 500 Mitglieder, Training, Leihmaterial und Gemeinschaft."
 featured_image: "/images/topbildbwc.jpg"
 ---
 
@@ -18,7 +18,7 @@ Der Bremer Windsurfing Club wurde am 09.04.1973 gegründet und hat heute ca. 500
 
 ### Training
 
-Jeden Freitag von 17–19 Uhr (Mai bis Oktober) bieten wir ein freies Training für alle Könnensstufen an.
+Jeden Freitag von 17–19 Uhr (Mai bis Oktober) bieten wir ein freies Training für alle Mitglieder an.
 
 </div>
 <div class="feature">
@@ -26,7 +26,7 @@ Jeden Freitag von 17–19 Uhr (Mai bis Oktober) bieten wir ein freies Training f
 
 ### Material
 
-Über 20 Windsurfbretter, mehrere SUPs, 6+ Wingfoil-Sets, 2 Pumpfoils und 30 aufgebaute Riggs von 2 bis 9 qm stehen bereit.
+Windsurfbretter von 220L bis 70L, fertig aufgebaute Riggs von 2qm (für Kinder) bis 9 qm, Stand-Up-Paddle-Boards, Wingfoil-Sets, Pumpfoil-Boards
 
 </div>
 <div class="feature">
@@ -42,18 +42,18 @@ Surffahrten, Grillabende und Arbeitsdienste – bei uns ist immer was los!
 
 ### Surfschein
 
-Mit unseren Partnern könnt ihr den offiziellen VDWS-Surfschein erwerben.
+Mit unseren Partnern könnt ihr das Windsurfen erlernen und den offiziellen VDWS-Surfschein erwerben.
 
 </div>
 </div>
 
 ## Über uns
 
-Im Club sind alle Könnensstufen und Altersklassen vertreten. Vereinsgelände und Material stehen den Mitgliedern täglich zum Surfen und Stand-up-Paddeln zur Verfügung. Zwischen Mai und Oktober wird für Vereinsmitglieder zudem ein freies Training jeden Freitag angeboten.
+Im Club sind alle Könnensstufen und Altersklassen vertreten. Vereinsgelände und Material stehen den Mitgliedern täglich zur Verfügung. Zwischen Mai und Oktober wird für Vereinsmitglieder zudem Freitags ein freies Training angeboten.
 
-Zum Windsurfen sind über 20 Windsurfbretter, mehrere SUPs, 6+ Wingfoil-Sets, 2 Pumpfoils sowie 30 aufgebaute Riggs von 2 (Kinder) bis 9 qm verfügbar. Somit besteht die Möglichkeit, schnell auf dem Wasser zu sein, um das Windsurfen zu erlernen bzw. seine Kenntnisse zu erweitern. Surfanzüge, Schuhe und Trapeze sind in ausreichender Anzahl für große und kleine Mitglieder zur Ausleihe vorhanden.
+Zum Surfen sind Windsurfbretter von 220L bis 70L, fertig aufgebaute Riggs von 2qm (für Kinder) bis 9 qm, Stand-Up-Paddle-Boards, Wingfoil-Sets und Pumpfoil-Boards verfügbar. Somit besteht die Möglichkeit, schnell auf dem Wasser zu sein und seine Kenntnisse zu erweitern. Surfanzüge, Schuhe und Trapeze sind in ausreichender Anzahl für große und kleine Mitglieder zur Ausleihe vorhanden.
 
-Normalerweise werden Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienste regelmäßig organisiert und über unsere Internet- sowie Facebook-Seite bekannt gegeben. Mindestens dreimal im Jahr haben wir zu Fahrten an windsichere Orte wie z.B. den Dümmer oder nach Sahlenburg eingeladen.
+Aktivitäten wie Surffahrten, Grillabende und Arbeitsdienste werden über unsere Website sowie WhatsApp- und Signal-Gruppen bekannt gegeben. Bei guter Windvorhersage werden dort auch spontan Tagesfahrten an die Nordsee (Sahlenburg) oder das große Meer organisiert.
 
 ## In der Presse
 
@@ -100,7 +100,7 @@ Unser Vereinsgelände liegt am Westufer des Bremer Stadtwaldsees (Unisee), wo si
 <div class="links-section">
 <a href="https://www.windfinder.com/forecast/bremen_stadtwaldsee" target="_blank" rel="noopener">🌬️ Windfinder</a>
 <a href="https://www.facebook.com/windsurfenbremen" target="_blank" rel="noopener">📘 Facebook</a>
-<a href="https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z" target="_blank" rel="noopener">📍 Google Maps</a>
+<a href="[https://www.google.de/maps/place/Bremer+Windsurfing+Club/@53.1119616,8.8229816,17z](https://www.google.de/maps/place/Bremer+Windsurfing+Club+(BWC+e.+V.)/@53.1119616,8.8229816,523m/data=!3m1!1e3!4m6!3m5!1s0x47b12888cb598b9d:0xa1c80d29dadebbbd!8m2!3d53.1117566!4d8.822173!16s%2Fg%2F12hkb2y8p?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D)" target="_blank" rel="noopener">📍 Google Maps</a>
 <a href="https://www.dailydose.de/" target="_blank" rel="noopener">🏄 daily dose</a>
 <a href="https://www.surf-forum.com/" target="_blank" rel="noopener">💬 surf forum</a>
 <a href="http://www.surfshop-charchulla.de/" target="_blank" rel="noopener">🛒 Surfshop Charchulla</a>
